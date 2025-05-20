@@ -8,11 +8,11 @@ Classificar tipos de câncer a partir de características extraídas de amostras
 
 ## Tecnologias
 - Python
-- Bibliotecas: scikit-learn, pandas, numpy
+- Bibliotecas: scikit-learn, matplotlib
 
 ## Como usar
 1. Prepare o dataset com os dados de entrada.
-2. Execute o script principal `knn_cancer.py`.
+2. Execute o script principal `KNN_cancer.ipynb`.
 3. Analise os resultados da classificação e a precisão do modelo.
 
 ## Funcionalidades
